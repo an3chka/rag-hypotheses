@@ -1,0 +1,9 @@
+transformers
+sentence-transformers
+torch
+chromadb
+rank-bm25
+razdel
+numpy
+pandas
+matplotlib
